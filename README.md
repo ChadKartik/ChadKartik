@@ -91,7 +91,7 @@ Collaborating with product and marketing teams to identify growth opportunities 
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChadKartik5&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChadKartik&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p>
