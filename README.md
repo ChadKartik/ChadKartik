@@ -91,11 +91,11 @@ Collaborating with product and marketing teams to identify growth opportunities 
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravs1225&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChadKartik5&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravs1225" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChadKartik" alt="GitHub Streak" />
 </p>
 
 ---
@@ -103,7 +103,7 @@ Collaborating with product and marketing teams to identify growth opportunities 
 ## 🤝 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/gaurav-sharma-7b311226b/" target="_blank">
+  <a href="https://www.linkedin.com/in/kartik-negi-b3b06b319/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://www.instagram.com/your_instagram_username" target="_blank">
