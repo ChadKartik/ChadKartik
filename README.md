@@ -44,7 +44,7 @@ Jun 2024 – Jul 2024 | Remote
 
 ### 
 📈 Business Analyst Intern — Zeapl.ai
-Jul 2025 – Present | Remote
+Jul 2025 – Present | Onsite
 
 Conducting market and user research to inform data-backed business strategies.
 
