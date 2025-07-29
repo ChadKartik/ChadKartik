@@ -22,7 +22,7 @@
 - 👯 Open to collaboration on **AI/ML/NLP Projects**  
 - 💬 Ask me about **Machine Learning**, **Model Training**, **Data Science Pipelines**, and **AI Tools**  
 - 📫 Reach me at **nkartik032@gmail.com**  
-- 🌐 Check out my portfolio:  
+- 🌐 Check out my portfolio: ** https://kartik-negi-portfolio.vercel.app/**
 - ⚡ Fun fact: *I can talk to AI models better than most people talk to each other 😄*
 
 ---
